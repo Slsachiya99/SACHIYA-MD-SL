@@ -8,8 +8,8 @@
   },
   "chats": {
     "916909137213-1632759248@g.us": {
-      "mute": troue,
-      "antilink": troue
+      "mute": false,
+      "antilink": false
     }
   },
   "database": {},
